@@ -28,7 +28,7 @@ We actively create and adapt technologies to achieve a safer and healthier digit
 |                                                                                                      |  **Description**                                                                                                                                           |
 |--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Learning**                                                                |Infinite aims to teach security, programming and hacking to young or vulnerable people and raise awareness to promote a healthy approach to computing.
-   |
+   
 
 ## Useful Links  
 Below are some important links related to Infinite. Click on the icons to visit the respective sites.  
