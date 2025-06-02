@@ -43,16 +43,16 @@ Below are some important links related to Infinite. Click on the icons to visit 
         </a>
       </td>
       <td align="center">
-        <a href="hhttps://vortex.infinite.si/">
+        <a href="https://vortex.infinite.si/">
           <img src="./assets/vortex_logo.png" width="60" height="60" alt="Image 2"><br>
           <strong>Vortex Website</strong>
         </a>
       </td>
       <td align="center">
-        <div>
+        <a href="https://cherry.infinite.si/">
           <img src="./assets/cherry_logo.png" width="60" height="60" alt="Image 3"><br>
-          <strong>Cherry Website (WIP)</strong>
-        </div>
+          <strong>Cherry Website</strong>
+        </a>
       </td>
       <td align="center">
         <div>
