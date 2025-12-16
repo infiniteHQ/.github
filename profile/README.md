@@ -68,10 +68,10 @@ Below are some important links related to Infinite. Click on the icons to visit 
         </a>
       </td>
       <td align="center">
-        <div>
-          <img src="./assets/labs.png" width="60" height="60" alt="Image 5"><br>
-          <strong>Infinite Labs (WIP)</strong>
-        </div>
+        <a href="https://garage.infinite.si/">
+          <img src="./assets/cherry_logo.png" width="60" height="60" alt="Image 3"><br>
+          <strong>Garage Website</strong>
+        </a>
       </td>
       <td align="center">
         <a href="https://accounts.infinite.si/">
