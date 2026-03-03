@@ -1,5 +1,5 @@
 # 🏴‍☠️ Welcome to Infinite.
-**Infinite** is a human community of hackers and enthusiasts from around the world. We believe in the freedom of the technologies we use, and we hack every day to empower people to be independent, free, and open.
+[**Infinite**](https://infinite.si/) is a human community of hackers and enthusiasts from around the world. We believe in the freedom of the technologies we use, and we hack every day to empower people to be independent, free, and open.
 
 We actively create and adapt technologies to achieve a safer and healthier digital world. In short, we hack for good.
 
