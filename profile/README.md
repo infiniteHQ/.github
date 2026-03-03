@@ -38,7 +38,7 @@ Below are some important links related to Infinite. Click on the icons to visit 
     <tr>
       <td align="center">
         <a href="https://infinite.si/">
-          <img src="./assets/infinite_info.png" width="60" height="60" alt="Image 1"><br>
+          <img src="./assets/in.png" width="60" height="60" alt="Image 1"><br>
           <strong>Infinite Website</strong>
         </a>
       </td>
