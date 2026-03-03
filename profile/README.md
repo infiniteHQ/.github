@@ -63,7 +63,7 @@ Below are some important links related to Infinite. Click on the icons to visit 
     </tr>
     <tr>      <td align="center">
         <a href="https://fund.infinite.si/">
-          <img src="./assets/heart.png" width="60" height="60" alt="Image 4"><br>
+          <img src="./assets/heart.png" width="30" height="30" alt="Image 4"><br>
           <strong>Funding & Sponsors</strong>
         </a>
       </td>
@@ -75,13 +75,13 @@ Below are some important links related to Infinite. Click on the icons to visit 
       </td>
       <td align="center">
         <a href="https://accounts.infinite.si/">
-          <img src="./assets/infinite_accounts.png" width="60" height="60" alt="Image 5"><br>
+          <img src="./assets/infinite_accounts.png" width="30" height="30" alt="Image 5"><br>
           <strong>Infinite Accounts</strong>
         </a>
       </td>
       <td align="center">
         <a href="https://discord.com/invite/H2wptkecUg">
-          <img src="./assets/discord.png" width="60" height="60" alt="Image 6"><br>
+          <img src="./assets/discord.png" width="30" height="30" alt="Image 6"><br>
           <strong>Discord</strong>
         </a>
       </td>
