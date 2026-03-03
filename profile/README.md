@@ -5,7 +5,7 @@ We actively create and adapt technologies to achieve a safer and healthier digit
 
 ### We create projects :
 
-|                                                                                                        |                                                                                                                                          |
+|                                                                                                        |                                                                                                                                          | **Description**
 |---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <img src="./assets/vortex_logo.png" width="150"> |[**Vortex**](https://github.com/infiniteHQ/Vortex) is a comprehensive open creation platform offering a variety of tools for creators and developers. It enables the creation of systems, applications, services, and much more. |
  <img src="./assets/hypernet_logo.png" width="150"> | **Hypernet** is an advanced networking technology designed around a sandbox paradigm, enabling extensive modding and customization. Originally created to push the boundaries of decentralized networking and environmental networking. |
