@@ -3,8 +3,6 @@
 
 We actively create and adapt technologies to achieve a safer and healthier digital world. In short, we hack for good.
 
----
-
 |                                                                                                        |            **We create projects**                                                                                                                              | 
 |---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <img src="./assets/vortex_logo.png" width="150"> |[**Vortex**](https://github.com/infiniteHQ/Vortex) is a comprehensive open creation platform offering a variety of tools for creators and developers. It enables the creation of systems, applications, services, and much more. |
