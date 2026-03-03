@@ -69,7 +69,7 @@ Below are some important links related to Infinite. Click on the icons to visit 
       </td>
       <td align="center">
         <a href="https://garage.infinite.si/">
-          <img src="./assets/cherry_logo.png" width="60" height="60" alt="Image 3"><br>
+          <img src="./assets/garage_logo.png" width="60" height="60" alt="Image 3"><br>
           <strong>Garage Website</strong>
         </a>
       </td>
