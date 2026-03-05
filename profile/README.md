@@ -14,17 +14,18 @@ We actively create and adapt technologies to achieve a safer and healthier digit
 |                |             **We create devtools**                                                                                                                      |
 |--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <img src="./assets/cherry_logo.png" width="150">  | [**Cherry**](https://github.com/infiniteHQ/Cherry) is a modern, minimalist yet comprehensive UI/UX framework for low-level native applications. It provides a complete solution, including backend support, a rendering engine, and UI components. Built using technologies like ImGui, Vulkan, and SDL. |
-           
-| |    **We create tools**                                                                                                                                       |
-|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="./assets/vortex_launcher.png" width="150">  | The [**Vortex Launcher**](https://github.com/infiniteHQ/VortexLauncher) is an easy-to-use tool that helps you create Vortex projects, manage your tools and projects, add content from the community, and share your own content too! |
-| <img src="./assets/vortex_installer.png" width="150">  | The [**Vortex Installer**](https://github.com/infiniteHQ/VortexInstaller) is a straightforward utility designed to install or update the Vortex Launcher. It focuses exclusively on the launcher itself, without affecting the Vortex core or any other internal components. This tool ensures that only the launcher is kept up-to-date, leaving the rest of the system unchanged. |
-
+          
 
 |                                                                                                      |  **We create initiatives**                                                                                                                                           |
 |--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Learning**                                                                |Infinite aims to teach security, programming and hacking to young or vulnerable people and raise awareness to promote a healthy approach to computing.
-   
+
+**Other tools and stuffs...**
+| |                                                                                                                                          |
+|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="./assets/vortex_launcher.png" width="80">  | The [**Vortex Launcher**](https://github.com/infiniteHQ/VortexLauncher) is an easy-to-use tool that helps you create Vortex projects, manage your tools and projects, add content from the community, and share your own content too! |
+| <img src="./assets/vortex_installer.png" width="80">  | The [**Vortex Installer**](https://github.com/infiniteHQ/VortexInstaller) is a straightforward utility designed to install or update the Vortex Launcher. It focuses exclusively on the launcher itself, without affecting the Vortex core or any other internal components. This tool ensures that only the launcher is kept up-to-date, leaving the rest of the system unchanged. |
+
 
 ## Useful Links  
 Below are some important links related to Infinite. Click on the icons to visit the respective sites.  
